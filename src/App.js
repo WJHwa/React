@@ -1,14 +1,14 @@
 import React from "react";
 import "./App.css";
-// import ResponCheck from "./component/responCheck";
-// import NumberBaseball from "./numberbaseball";
-// import Registered from "./registered";
-import Lotto from "./component/Lotto";
+import Gugudan from "./component/구구단/Gugudan";
+import Games from "./component/Route/Games";
+import Rock from "./component/가위바위보/Rock";
 
+// import Route1 from "./component/Route/Route1";
 function App() {
   return (
     <>
-      <Lotto />
+      <Rock />
     </>
   );
 }

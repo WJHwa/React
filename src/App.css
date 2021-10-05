@@ -1,6 +1,6 @@
 /*리스폰 체크일때*/
 
-/*
+
  #screen {
   width: 400px;
   height: 300px;
@@ -16,7 +16,7 @@
 }
 #screen.now {
   background-color: greenyellow;
-} */
+}
 
 .ball {
   display: inline-block;
@@ -28,4 +28,10 @@
   font-size: 20px;
   text-align: center;
   margin-right: 20px;
+}
+
+.td {
+  width: 40px;
+  height: 40px;
+  text-align: center;
 }

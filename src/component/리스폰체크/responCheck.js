@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import "../App.css";
+import "../../App.css";
 
 function ResponCheck() {
   const [State, setState] = useState("Waiting");
